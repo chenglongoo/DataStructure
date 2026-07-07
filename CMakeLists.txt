@@ -8,3 +8,4 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 
 add_executable(data_structures_408 main.cpp)
 add_executable(sq_list_delete_min linear_list/sq_list_delete_min.cpp)
+add_executable(sq_list_reverse linear_list/sq_list_reverse.cpp)
