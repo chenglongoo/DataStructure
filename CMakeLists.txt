@@ -18,3 +18,4 @@ add_executable(sq_list_search_exchange_insert linear_list/sq_list_search_exchang
 add_executable(three_sorted_sequences_common linear_list/three_sorted_sequences_common.cpp)
 add_executable(array_left_rotate linear_list/array_left_rotate.cpp)
 add_executable(two_sorted_sequences_median linear_list/two_sorted_sequences_median.cpp)
+add_executable(array_majority_element linear_list/array_majority_element.cpp)
